@@ -1,7 +1,7 @@
 ---
 title: "All-sky search for continuous gravitational waves from isolated neutron stars using Advanced LIGO O2 data"
 collection: publications
-permalink: /_publications/O2allsky/
+permalink: /_publications/O2allskyCW/
 ---
 B. P. Abbott, <i>et al.</i> (including <b>G. Weldon</b>), <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.024004">Phys. Rev. D <b>100</b>, 024004</a> [<a href="https://arxiv.org/abs/1903.01901">arXiv:1903.01901</a>] (2019)
 
