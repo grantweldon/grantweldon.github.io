@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Grant Weldon"
 title_separator          : "-"
 name                     : &name "Grant Weldon"
-description              : &description "Astrophysics"
+description              : &description ""
 url                      : https://grantweldon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "grantweldon/grantweldon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Grant Weldon"
   avatar           : "profile.jpg"
-  bio              : "Astrophysics"
+  bio              : "Physics"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
