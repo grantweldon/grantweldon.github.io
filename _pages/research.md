@@ -4,8 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-{% include base_path %}
-My research interests are in high-energy astrophysics and general relativity. I currently study gravitational wave astrophysics as a member of the <a href="https://www.ligo.caltech.edu">LIGO Scientific Collaboration</a>.
+{% include base_path %} I currently study gravitational wave astrophysics as a member of the <a href="https://www.ligo.caltech.edu">LIGO Scientific Collaboration</a>.
 
 <b>Overview</b>
 
