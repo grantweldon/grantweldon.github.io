@@ -10,6 +10,6 @@ redirect_from:
 <p align="center"><img src = "/images/grantweldon.jpg" height="115" width="115"></p>
 
 
-I am an undergraduate <a href="https://shipmansociety.com/about-us/">Shipman Scholar</a> at the University of Michigan studying physics and mathematics. My research interests are in experimental astrophysics and cosmology. I currently conduct research on gravitational wave astrophysics with Professor Keith Riles as a member of the <a href="https://www.ligo.org">LIGO Scientific Collaboration</a>.
+I am an undergraduate <a href="https://shipmansociety.com/about-us/">Shipman Scholar</a> at the University of Michigan studying physics and mathematics. My research interests are in gravitational physics and high-energy physics. I currently conduct research on gravitational waves with Professor Keith Riles as a member of the <a href="https://www.ligo.org">LIGO Scientific Collaboration</a>.
 
 I am a member of the American Physical Society and serve as Vice President of the Michigan Society of Physics Students.
