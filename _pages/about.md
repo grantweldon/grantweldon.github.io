@@ -12,4 +12,4 @@ redirect_from:
 
 I am an undergraduate <a href="https://shipmansociety.com/about-us/">Shipman Scholar</a> at the University of Michigan studying physics and mathematics. I currently conduct research on gravitational wave astrophysics with Professor Keith Riles as a member of the <a href="https://www.ligo.org">LIGO Scientific Collaboration</a>.
 
-I am a member of the American Physical Society (Division of Gravitation) and serve as Vice President of the Michigan Society of Physics Students.
+I am a member of the American Physical Society and serve as Vice President of the Michigan Society of Physics Students.
