@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p align="center"><img src = "/images/grantweldon.jpg" height="115" width="115"></p>
+<p align="center"><img src = "/images/grantweldonpic.jpg" height="150"></p>
 
 
 I am an undergraduate physics and mathematics student at the University of Michigan, where I am a recipient of the <a href="https://shipmansociety.com/about-us/">Shipman Scholarship</a>. My research interests are in general relativity and relativistic astrophysics. Central to these studies are compact objects (*e.g.* black holes, neutron stars) and <a href="https://space.mit.edu/LIGO/more.html">gravitational waves</a>.
